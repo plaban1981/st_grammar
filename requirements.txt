@@ -1,0 +1,4 @@
+happytransformer==2.4.1
+torch==1.12.1
+transformers==4.24.0
+streamlit
